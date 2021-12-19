@@ -61,3 +61,13 @@ int main()
 }
 
 
+#output:
+
+1-push 
+ 2-pop 
+ 3-peek 
+ 4-display 
+ 5-exitenter your choice 2
+ 2
+stack underflow
+
